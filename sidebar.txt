@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dlk:home|Door43 (dlk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dlk|d43-dlk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dlk/archive/master.zip|d43-dlk.zip]]
+
+**Recent Changes**
+{{changes>ns = dlk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dlk|Ethnologue data]]
+
